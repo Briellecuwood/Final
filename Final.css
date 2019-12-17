@@ -7,3 +7,7 @@ html {
     color: rgb(42, 144, 157);
     font-size: 0.75rem;
 }
+
+script {
+    font-size: 0.1rem;
+}
