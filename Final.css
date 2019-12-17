@@ -1,13 +1,10 @@
 html {
     color: #2a5769;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: white
 }
 
 .main {
     color: rgb(42, 144, 157);
     font-size: 0.75rem;
-}
-
-script {
-    font-size: 0.1rem;
 }
